@@ -1,0 +1,92 @@
+
+#pa{
+   padding-left: 370px;
+}
+#h{
+    padding-left: 320px;
+}
+#rboxes{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 100px;
+   padding-top: 50px;
+}
+#rbox1{
+    border: 1px solid white;
+    height: 400px;
+    width: 300px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-left: 70px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1),
+    0 -4px 6px rgba(0, 0, 0, 0.1),
+    4px 0 6px rgba(0, 0, 0, 0.1),  
+    -4px 0 6px rgba(0, 0, 0, 0.1); 
+}
+ #rbox1:hover{
+     background-color: black;
+     color: white;
+
+
+ }
+
+#rbox2{
+    border: 1px solid white;
+    height: 400px;
+    width: 300px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-left: 70px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1),
+    0 -4px 6px rgba(0, 0, 0, 0.1),
+    4px 0 6px rgba(0, 0, 0, 0.1),  
+    -4px 0 6px rgba(0, 0, 0, 0.1); 
+}
+#rbox2:hover{
+    background-color: black;
+    color: white;
+
+
+}
+
+#rbox3{
+    border: 1px solid white;
+    height: 400px;
+    width: 300px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-left: 70px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1),
+    0 -4px 6px rgba(0, 0, 0, 0.1),
+    4px 0 6px rgba(0, 0, 0, 0.1),  
+    -4px 0 6px rgba(0, 0, 0, 0.1); 
+
+}
+#rbox3:hover{
+    background-color: black;
+    color: white;
+
+
+}
+.star{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 70px;
+
+}
+
+.para{
+    padding-right: 50px;
+}
+
+#aps{
+    padding-top: 100px;
+}

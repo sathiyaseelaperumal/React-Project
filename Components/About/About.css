@@ -1,0 +1,20 @@
+#about{
+  
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ padding-top: 200px;
+ /* height: 700px; */
+
+}
+
+#ab2{
+    font-weight: bolder ;
+}
+#serv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+}

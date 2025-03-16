@@ -1,0 +1,10 @@
+#b{
+    background-image: linear-gradient(to right,blue,aqua);
+    color: black;
+}
+
+#b:hover{
+    cursor:pointer;
+    background-image: linear-gradient(to right,yellow,red);
+    color: white;
+}

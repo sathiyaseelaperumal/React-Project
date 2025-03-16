@@ -1,0 +1,20 @@
+#let{
+
+font-weight: bold;
+}
+#btn{
+    color: black;
+}
+
+#home{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    top: 150px;
+  
+}
+#dip{
+    position: relative;
+    top: 200px;
+}

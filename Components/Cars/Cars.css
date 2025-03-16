@@ -1,0 +1,113 @@
+
+#main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 100px;
+}
+
+#cbox1{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1),
+ 0 -4px 6px rgba(0, 0, 0, 0.1),
+ 4px 0 6px rgba(0, 0, 0, 0.1),  
+ -4px 0 6px rgba(0, 0, 0, 0.1); 
+  
+}
+
+.ti{
+    font-weight: bold;
+}
+/* #cbox1:hover{
+    background-color: black;
+    color: white;
+} */
+#cbox2{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1),
+    0 -4px 6px rgba(0, 0, 0, 0.1),
+    4px 0 6px rgba(0, 0, 0, 0.1),  
+    -4px 0 6px rgba(0, 0, 0, 0.1); 
+}
+#cbox3{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1),
+    0 -4px 6px rgba(0, 0, 0, 0.1),
+    4px 0 6px rgba(0, 0, 0, 0.1),  
+    -4px 0 6px rgba(0, 0, 0, 0.1); 
+}
+
+
+#main2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 100px;
+  
+}
+
+#cbox4{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1),
+    0 -4px 6px rgba(0, 0, 0, 0.1),
+    4px 0 6px rgba(0, 0, 0, 0.1),  
+    -4px 0 6px rgba(0, 0, 0, 0.1); 
+}
+#cbox5{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1),
+    0 -4px 6px rgba(0, 0, 0, 0.1),
+    4px 0 6px rgba(0, 0, 0, 0.1),  
+    -4px 0 6px rgba(0, 0, 0, 0.1); 
+}
+#cbox6{
+    border: 1px solid white;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1),
+    0 -4px 6px rgba(0, 0, 0, 0.1),
+    4px 0 6px rgba(0, 0, 0, 0.1),  
+    -4px 0 6px rgba(0, 0, 0, 0.1); 
+}
+
+#btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    
+}

@@ -1,0 +1,27 @@
+/* *{
+    margin: 0;
+} */
+#container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    height: 50px;
+    font-weight: bold;
+   
+
+}
+#nav1{
+    font-weight: bolder;
+}
+
+#nav2{
+    position: relative;
+    left: 200px;
+    
+}
+
+#display{
+    height: 700px;
+    /* background-color: yellow; */
+}
